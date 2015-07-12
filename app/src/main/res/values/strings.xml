@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GlobalSpaceAssignment</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="remarkslist">
+        <item>"Good"</item>
+        <item>Very Good</item>
+        <item>Excellent</item>
+    </string-array>
+</resources>
